@@ -5,7 +5,7 @@ This project is a compilation of back-end concepts: authentication, NodeJS, Mong
 The objective is to build a simple platform to upload and view files with:
 
 - User authentication via a token
-- Listing of all files
+- Listing of all files.
 - Uploading a new file
 - Changing permissions of a file
 - Viewing a file
